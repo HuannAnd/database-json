@@ -1,6 +1,5 @@
 {
   "transactions": [
-    [
       {
         "id": "5f89f9f257fe42957bf6dbfd",
         "title": "Resgate",
@@ -31,7 +30,6 @@
         "from": "Férias",
         "to": "Trade"
       }
-]
-  ]
+  ] 
 }
 
